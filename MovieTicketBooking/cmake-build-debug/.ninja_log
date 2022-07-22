@@ -1,0 +1,19 @@
+# ninja log v5
+1	68	6801866989007345	CMakeFiles/MovieTicketBooking.dir/main.c.obj	bad29eea61fc54e
+69	146	6801866989747566	MovieTicketBooking.exe	f3257e66ca7aa9ed
+2	67	6801895907672368	CMakeFiles/MovieTicketBooking.dir/main.c.obj	bad29eea61fc54e
+68	135	6801895908332885	MovieTicketBooking.exe	f3257e66ca7aa9ed
+2	65	6801909481958017	CMakeFiles/MovieTicketBooking.dir/main.c.obj	bad29eea61fc54e
+65	134	6801909482638221	MovieTicketBooking.exe	f3257e66ca7aa9ed
+2	58	6801909662972275	CMakeFiles/MovieTicketBooking.dir/main.c.obj	bad29eea61fc54e
+58	123	6801909663592455	MovieTicketBooking.exe	f3257e66ca7aa9ed
+2	61	6801910411163287	CMakeFiles/MovieTicketBooking.dir/main.c.obj	bad29eea61fc54e
+61	125	6801910411793695	MovieTicketBooking.exe	f3257e66ca7aa9ed
+1	55	6801910459421768	CMakeFiles/MovieTicketBooking.dir/main.c.obj	bad29eea61fc54e
+56	122	6801910460061955	MovieTicketBooking.exe	f3257e66ca7aa9ed
+1	55	6801910510583153	CMakeFiles/MovieTicketBooking.dir/main.c.obj	bad29eea61fc54e
+56	120	6801910511203333	MovieTicketBooking.exe	f3257e66ca7aa9ed
+2	55	6801910701524836	CMakeFiles/MovieTicketBooking.dir/main.c.obj	bad29eea61fc54e
+55	120	6801910702165030	MovieTicketBooking.exe	f3257e66ca7aa9ed
+2	55	6801910807586018	CMakeFiles/MovieTicketBooking.dir/main.c.obj	bad29eea61fc54e
+55	120	6801910808206183	MovieTicketBooking.exe	f3257e66ca7aa9ed

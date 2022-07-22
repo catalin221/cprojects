@@ -1,0 +1,4 @@
+#ifndef PROJECTS_BUYER_H
+#define PROJECTS_BUYER_H
+
+#endif //PROJECTS_BUYER_H
