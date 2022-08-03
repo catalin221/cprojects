@@ -1,3 +1,3 @@
-C:/Users/bejin/Desktop/MovieTicketBooking/cmake-build-debug/CMakeFiles/MovieTicketBooking.dir
-C:/Users/bejin/Desktop/MovieTicketBooking/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/bejin/Desktop/MovieTicketBooking/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/bejin/Desktop/cprojects/MovieTicketBooking/cmake-build-debug/CMakeFiles/MovieTicketBooking.dir
+C:/Users/bejin/Desktop/cprojects/MovieTicketBooking/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bejin/Desktop/cprojects/MovieTicketBooking/cmake-build-debug/CMakeFiles/rebuild_cache.dir

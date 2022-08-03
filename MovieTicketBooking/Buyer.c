@@ -4,5 +4,4 @@
 typedef struct Buyer{
     char* Name;
     int id;
-
 }Buyer;
